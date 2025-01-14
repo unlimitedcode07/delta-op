@@ -1,2 +1,2 @@
 # delta-op
-this is demo 
+this is demo .
